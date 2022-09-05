@@ -15,6 +15,9 @@ urlcolor: cyan
 
 \clearpage
 
+# Project Repository
+Please put the URL of your project repository on GitHub here. I expect to see all students in the team actively contributing to the repository throughout the semester. 
+
 
 # Introduction
 This section introduces your problem and the overall plan for approaching the problem you plan to address in your project.
