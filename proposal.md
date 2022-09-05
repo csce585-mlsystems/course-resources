@@ -18,7 +18,6 @@ urlcolor: cyan
 # Project Repository
 Please put the URL of your project repository on GitHub here. I expect to see all students in the team actively contributing to the repository throughout the semester. 
 
-
 # Introduction
 This section introduces your problem and the overall plan for approaching the problem you plan to address in your project.
 
@@ -36,3 +35,6 @@ Discuss published work related to your project. How is your approach similar or 
 
 # References
 What reading will you examine to provide context and background? Please make sure to cite all relevant publications, blog posts, and any resources that are related to your project. 
+
+# Submission
+Please use [GitHub tags](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/managing-tags) for indicating your submissions. So, one of your team members submits a `PDF file` that includes, a `title` for your project, a `list of members` and their `GitHub accounts`, a link to your `repository`, and a specific `GitHub tag` that I should use for locating your submission on GitHub. 
